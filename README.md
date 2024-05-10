@@ -1,8 +1,11 @@
+<strong>Scripts for:</strong>
+
 # A lineage-specific protein network at the trypanosome nuclear envelope
 Erin R. Butterfield<sup>1</sup>, Samson O. Obado<sup>2</sup>, Simon R. Scutts<sup>3</sup>, Wenzhu Zhang<sup>4</sup>, Brian T. Chait<sup>4</sup>, Michael P. Rout<sup>2</sup> and Mark C. Field<sup>1,5</sup>
 
 <sup>1</sup>School of Life Sciences, University of Dundee, Dow Street, Dundee, DD1 5EH, UK, <sup>2</sup>The Rockefeller University, 1230 York Avenue, New York, NY10065, USA, <sup>3</sup>Department of Pathology, University of Cambridge, Tennis Court Road, Cambridge, CB2 1EF, UK, <sup>4</sup>Laboratory of Mass Spectrometry and Gaseous Ion Chemistry, The Rockefeller University, New York, New York, USA, <sup>5</sup>Biology Centre, Czech Academy of Sciences, Institute of Parasitology, České Budějovice, Czech Republic.
 
+https://doi.org/10.1080/19491034.2024.2310452
 
 <br />
 
